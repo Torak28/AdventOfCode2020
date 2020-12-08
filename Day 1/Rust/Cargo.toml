@@ -1,0 +1,6 @@
+[package]
+name = "advent_of_code2020_day_1"
+version = "0.1.0"
+authors = ["Jarosław Ciołek-Żelechowski <zelechowski28@gmail.com>"]
+edition = "2018"
+[dependencies]
